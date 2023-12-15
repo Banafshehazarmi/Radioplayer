@@ -1,0 +1,9 @@
+Semantiska element: Element som <header>, <nav>, <main>, och <footer> ger struktur och innebörd åt innehållet, vilket underlättar tillgänglighet. Till exempel hjälper <nav> användare att navigera, medan <main> betonar primärt innehåll för enklare åtkomst.
+
+Färgkontrast: Att uppfylla WCAG-kontrastförhållanden (4.5:1 för vanlig text, 3:1 för stor text) säkerställer läsbarhet för användare med synnedsättning. Hög kontrast mellan text och bakgrund förbättrar läsbarheten, som svart text på vit bakgrund.
+
+Alt-text för bilder: Beskrivande alt-text ger textalternativ till bilder för skärmläsare. Till exempel beskriver "En svartvit katt som sitter på en fönsterbräda" en bild och hjälper användare som inte kan se den.
+
+Landmärken: Element som <header>, <nav>, <main>, <footer> och <aside> fungerar som vägvisare för skärmläsare, vilket underlättar navigering genom att låta användare hoppa direkt till olika avsnitt på en sida.
+
+Formulärsmärkning: Korrekta <label>-taggar som är kopplade till inmatningsfält förbättrar tillgängligheten genom tydliga instruktioner. Till exempel parar <label for="användarnamn">Användarnamn:</label> <input type="text" id="användarnamn"> ihop etiketten med dess inmatningsfält för bättre förståelse, särskilt för användare av skärmläsare.
